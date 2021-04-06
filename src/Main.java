@@ -6,6 +6,9 @@ public class Main {
 
 		System.out.println("Hola Mundo");
 		
+		int i = 0;
+		
+		
 	}
 	
 	//comentario
